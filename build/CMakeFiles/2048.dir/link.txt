@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/2048.dir/src/core.c.o CMakeFiles/2048.dir/src/game.c.o -o bin/2048  -lm /usr/lib/x86_64-linux-gnu/libSDL2.so /usr/lib/x86_64-linux-gnu/libSDL2_ttf.so /usr/lib/x86_64-linux-gnu/libSDL2_ttf.so 

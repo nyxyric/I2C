@@ -1,0 +1,3 @@
+/mnt/hgfs/I2C_shared_folder/0x2048/build/CMakeFiles/2048.dir
+/mnt/hgfs/I2C_shared_folder/0x2048/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/I2C_shared_folder/0x2048/build/CMakeFiles/rebuild_cache.dir
