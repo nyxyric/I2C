@@ -4,6 +4,8 @@
 
 This project is part of the I2C module. The goal of the project is the implementation of the 2048 game. Besides the game logic a score and highscore mechanism was implemented.
 
+![image](https://user-images.githubusercontent.com/122126749/215457240-eafb1642-8764-408f-9dbe-3c1852776e90.png)
+
 # Setup #
 
 The project is implemented on a Kali Linux VM. Visual Studio Code is used as editor. The SDL2 library is used for the user interface. 
